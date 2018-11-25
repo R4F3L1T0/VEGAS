@@ -18,3 +18,4 @@ In this repository you will find:
 This picture shows the peculiar features of the VEGAS algorithm.  
 The point inside the integration domain are pulled out of the probability law p(x), that is calculated steb-by-step (importance sampling), while a "crude" Monte Carlo would extract the points uniformly (simple sampling).  
 That's key feature of the VEGAS algorithm that allows it to reach higher accuracy in a significantly lower time and to work properly in any number of dimentions.
+![integrating_function_vs_px](https://user-images.githubusercontent.com/44372889/48982355-3f25c280-f096-11e8-8d76-dbfe8becaff4.png)
